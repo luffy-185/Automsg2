@@ -14,7 +14,7 @@ PHONE = os.environ.get("PHONE", None)  # optional, if you want
 
 TARGET_CHAT = os.environ.get("TARGET_CHAT", "@noob_grabbers")
 COMMAND_TEXT = os.environ.get("COMMAND_TEXT", "/explore@slave_waifu_bot")
-OWNER = os.environ.get("OWNER", "luffy_5185")
+OWNER = os.environ.get("OWNER", "lazy_luffy")
 
 # ===== STATE =====
 delay = 66
