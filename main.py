@@ -12,7 +12,7 @@ API_HASH = os.environ.get("API_HASH", "")
 SESSION = os.environ.get("SESSION", "")
 PHONE = os.environ.get("PHONE", None)  # optional, if you want
 
-TARGET_CHAT = os.environ.get("TARGET_CHAT", "@noob_grabbers")
+TARGET_CHAT = os.environ.get("TARGET_CHAT", "@noob_grabber")
 COMMAND_TEXT = os.environ.get("COMMAND_TEXT", "/explore@slave_waifu_bot")
 OWNER = os.environ.get("OWNER", "lazy_luffy")
 
